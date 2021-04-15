@@ -1,0 +1,32 @@
+[
+		{
+			"skuId" : "skuA",
+	 		"name" : "item-A",
+	    	"quantity" : 1024,
+	    	"unitPrice" : 40
+		},
+		{
+			"skuId" : "skuB",
+	 		"name" : "item-B",
+	    	"quantity" : 1024,
+	    	"unitPrice" : 50
+		},
+		{
+			"skuId" : "skuC",
+	 		"name" : "item-C",
+	    	"quantity" : 1024,
+	    	"unitPrice" : 25
+		},
+		{
+			"skuId" : "skuD",
+	 		"name" : "item-D",
+	    	"quantity" : 1024,
+	    	"unitPrice" : 20
+		},
+		{
+			"skuId" : "skuE",
+	 		"name" : "item-E",
+	    	"quantity" : 1024,
+	    	"unitPrice" : 100
+		}
+]

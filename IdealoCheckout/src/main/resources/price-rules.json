@@ -1,0 +1,12 @@
+[
+	{
+		"skuId" : "skuA",
+	    "quantity" : 3,
+	    "bulkPrice" : 100
+	},
+	{
+		"skuId" : "skuB",
+	    "quantity" : 2,
+	    "bulkPrice" : 80
+	}
+]
