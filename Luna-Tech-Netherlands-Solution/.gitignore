@@ -1,0 +1,10 @@
+*.tsv
+*.mvn
+mvnw
+mvnw.cmd
+*.gz
+.metals
+.vscode
+*.minimal
+.DS_Store
+.ammonite/

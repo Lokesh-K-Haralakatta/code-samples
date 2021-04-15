@@ -1,0 +1,11 @@
+
+- Starting docker container:
+
+       docker-compose up --no-recreate --no-build --remove-orphans
+
+
+- Connecting to PostGres DB within docker container
+
+       docker exec -tiu postgres 4e9a9250ce31 psql -d lunatech_imdb -U postgres
+
+
